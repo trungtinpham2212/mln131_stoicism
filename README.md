@@ -5,7 +5,7 @@ Một ứng dụng web hiện đại giúp bạn khám phá và thực hành Ch�
 <p align="center"> <img src="https://img.shields.io/badge/React-18-blue?logo=react" /> <img src="https://img.shields.io/badge/Vite-Fast-purple?logo=vite" /> <img src="https://img.shields.io/badge/TailwindCSS-Modern-38bdf8?logo=tailwindcss" /> <img src="https://img.shields.io/badge/Gemini-AI-orange?logo=google" /> <img src="https://img.shields.io/badge/Responsive-Yes-success" /> </p>
 🌟 Demo
 
-🔗 Live Demo: https://your-demo-link.vercel.app
+🔗 Live Demo: https://stoicism-cyan.vercel.app/
 
 📸 Preview:
 
